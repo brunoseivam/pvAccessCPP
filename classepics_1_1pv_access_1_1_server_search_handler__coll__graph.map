@@ -1,0 +1,4 @@
+<map id="epics::pvAccess::ServerSearchHandler" name="epics::pvAccess::ServerSearchHandler">
+<area shape="rect" id="node2" href="/home/mdavidsaver/work/epics/pv/pvAccess/documentation/libstdc++.tag$a00454.html" title="std::basic_string\&lt;\l _CharT, _Traits, _Alloc \&gt;" alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node3" href="/home/mdavidsaver/work/epics/pv/pvAccess/documentation/libstdc++.tag$a00825.html" title="std::map\&lt; std::basic\l_string, std::tr1::weak\l_ptr\&lt; epics::pvAccess::\lChannelProvider \&gt; \&gt;" alt="" coords="11,71,173,141"/>
+</map>
